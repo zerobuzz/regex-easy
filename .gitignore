@@ -1,0 +1,11 @@
+dist
+cabal-dev
+*.o
+*.hi
+*.chi
+*.chs.h
+.virthualenv
+/SourceGraph
+/src/.quickcheck-stash
+/.cabal-sandbox
+*~
